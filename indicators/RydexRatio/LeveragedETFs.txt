@@ -1,0 +1,59 @@
+Broad-market leveraged long ETFs
+
+TQQQ UDOW UPRO UWM URTY 
+"TQQQ", "UDOW", "UPRO", "UWM", "URTY"
+
+Sector- or thematic leveraged long ETFs 
+
+UCC UGE URE UPW UXI USD UCYB UCO UGL
+"UCC", "UGE", "URE", "UPW", "UXI", "USD", "UCYB", "UCO", "UGL" 
+
+3× Leverage (Direxion “Daily Bull 3X”)
+
+SOXL TECL MIDU SPXL TNA 
+"SOXL", "TECL", "MIDU", "SPX", "TNA"
+
+Single‑stock leveraged long ETFs
+
+TSLR AMDL AMZZ MSFL PTIR
+"TSLR", "AMDL", "AMZZ", "MSFL", "PTIR"
+
+Bond & Treasury Inverse ETFs (bullish)
+TBF TBT TTT TBX TMV SJB
+"TBF", "TBT", "TTT", "TBX", "TMV", "SJB"
+
+
+Broad‑Market Leveraged Inverse ETFs
+
+SH SDS SPXU PSQ SQQQ SDOW TWM SRTY
+"SH", "SDS", "SPXU", "PSQ", "SQQQ", "SDOW", "TWM", "SRTY"
+
+
+Sector‑ or Thematic Inverse ETFs
+
+SZK SCC BIS SSG SRS TECS SOXS FAZ
+"SZK", "SCC", "BIS", "SSG", "SRS", "TECS", "SOXS", "FAZ"
+
+
+Additional Inverse Instruments (Bitcoin)
+
+BITI
+"BITI"
+
+Treasury Bill ETFs (Proxy Money Market) Bearish
+
+BIL SGOV SHV USFR
+"BIL", "SGOV", "SHV", "USFR"
+
+
+ALL OF THEM TOGETHER
+
+WRDS download format:
+TQQQ UDOW UPRO UWM URTY UCC UGE URE UPW UXI USD UCYB UCO UGL SOXL TECL MIDU SPXL TNA TSLR AMDL AMZZ MSFL PTIR TBF TBT TTT TBX TMV SJB SH SDS SPXU PSQ SQQQ SDOW TWM SRTY SZK SCC BIS SSG SRS TECS SOXS FAZ BITI BIL SGOV SHV USFR SPY
+
+Leveraged bullish all together:
+"TQQQ", "UDOW", "UPRO", "UWM", "URTY","UCC", "UGE", "URE", "UPW", "UXI", "USD", "UCYB", "UCO", "UGL" ,"SOXL", "TECL", "MIDU", "SPX", "TNA","TSLR", "AMDL", "AMZZ","MSFL", "PTIR","TBF", "TBT", "TTT", "TBX", "TMV", "SJB"
+
+
+Leveraged bearish all together:
+"SH", "SDS", "SPXU", "PSQ", "SQQQ", "SDOW", "TWM", "SRTY","SZK", "SCC", "BIS", "SSG", "SRS", "TECS", "SOXS", "FAZ","BITI"
